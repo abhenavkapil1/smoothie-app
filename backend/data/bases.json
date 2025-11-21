@@ -1,0 +1,6 @@
+[
+  { "name": "Almond Milk", "type": "dairy_free" },
+  { "name": "Coconut Milk", "type": "dairy_free" },
+  { "name": "Yogurt", "type": "dairy" },
+  { "name": "Oat Milk", "type": "dairy_free" }
+]
